@@ -48,5 +48,5 @@ dependencies {
 
     //Android Alt-Beacon Library
     implementation 'org.altbeacon:android-beacon-library:2.20.7'
-    implementation 'androidx.core:core:1.15.0'
+    implementation 'androidx.core:core:1.8.0'
 }
